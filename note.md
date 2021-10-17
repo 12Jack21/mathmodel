@@ -52,3 +52,8 @@ TODO:
 - MN compound randomly fetch positive samples
 - GBM
 
+
+
+
+
+- add CV on CLF
